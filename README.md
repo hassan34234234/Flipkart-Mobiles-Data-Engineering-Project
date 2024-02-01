@@ -1,6 +1,6 @@
 Overview:
 
-This project focuses on analyzing the mobile phone specifications from the data. This project includes data cleaning, exploration, visualization tasks, and integration into a Postgres sql Database to derive insights from the dataset.
+This project focuses on analyzing the mobile phone specifications from the data. This project includes data cleaning and exploration, visualization tasks, and integration into a Postgres sql Database to derive insights from the dataset.
 
 Table of Contents:
 
